@@ -1,1 +1,1 @@
-# .github
+https://incidenthub.cloud/
