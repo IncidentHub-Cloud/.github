@@ -4,6 +4,8 @@
 
 On ProductHunt - [https://www.producthunt.com/products/incidenthub](https://www.producthunt.com/products/incidenthub)
 
+On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incidenthub)
+
 Twitter - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)
 
 LinkedIn - [https://www.linkedin.com/company/incidenthub/](https://www.linkedin.com/company/incidenthub/)
