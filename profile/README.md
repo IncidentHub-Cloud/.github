@@ -17,6 +17,7 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 [Box status](https://incidenthub.cloud/status/box)  
 [Cloudflare status](https://incidenthub.cloud/status/cloudflare)  
 [Coinbase status](https://incidenthub.cloud/status/coinbase)  
+[DeepSeek status](https://incidenthub.cloud/status/deepseek)  
 [Discord status](https://incidenthub.cloud/status/discord)  
 [Dropbox status](https://incidenthub.cloud/status/dropbox)  
 [Fortnite status](https://incidenthub.cloud/status/fortnite)  
