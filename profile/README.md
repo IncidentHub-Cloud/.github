@@ -1,4 +1,4 @@
-## Monitor the status pages of all your cloud and SaaS providers in one place. 
+## Instant Alerts For All Your Vendor Outages 
 
 IncidentHub monitors hundreds of status pages and can alert when when there are outages and maintenance.
 
