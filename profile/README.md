@@ -1,7 +1,19 @@
 ## Monitor the status pages of all your cloud and SaaS providers in one place. 
 
+IncidentHub monitors hundreds of status pages and can alert when when there are outages and maintenance.
+
 [https://incidenthub.cloud/](https://incidenthub.cloud/)
 
+## Features
+#### Status Page Aggregator
+#### Component Filtering
+#### Real-time Alerts
+#### Alert Fine Tuning
+#### Public Status Page
+#### Maintenance Feed
+#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, and more
+
+## Social
 Twitter - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
 LinkedIn - [https://www.linkedin.com/company/incidenthub/](https://www.linkedin.com/company/incidenthub/)  
 Blog - [https://blog.incidenthub.cloud/](https://blog.incidenthub.cloud/)  
@@ -10,7 +22,7 @@ Documentation - [https://docs.incidenthub.cloud/](https://docs.incidenthub.cloud
 On ProductHunt - [https://www.producthunt.com/products/incidenthub](https://www.producthunt.com/products/incidenthub)  
 On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incidenthub)
 
-### Popular Services
+## Popular Services
 [Airtable status](https://incidenthub.cloud/status/airtable)  
 [Akamai status](https://incidenthub.cloud/status/akamai)  
 [Azure status](https://incidenthub.cloud/status/azure)  
