@@ -11,7 +11,7 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### Alert Fine Tuning
 #### Public Status Page
 #### Maintenance Feed
-### Upcoming Maintenance Reminders
+#### Upcoming Maintenance Reminders
 #### Integration with Slack, Discord, PagerDuty, Email, Webhooks, and more
 
 ## Social
@@ -42,6 +42,7 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 [Okta status](https://incidenthub.cloud/status/okta)  
 [OpenAI status](https://incidenthub.cloud/status/openai)  
 [PayPal status](https://incidenthub.cloud/status/paypal)  
+[Perplexity status](https://incidenthub.cloud/status/perplexity.ai)  
 [Railway status](https://incidenthub.cloud/status/railway)  
 [Reddit status](https://incidenthub.cloud/status/reddit)  
 [Rollbar status](https://incidenthub.cloud/status/rollbar)  
