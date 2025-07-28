@@ -12,16 +12,21 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### Public Status Page
 #### Maintenance Feed
 #### Upcoming Maintenance Reminders
+#### Historical Data
 #### Integration with Slack, Discord, PagerDuty, Email, Webhooks, and more
 
 ## Social
-Twitter - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
+X - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
 LinkedIn - [https://www.linkedin.com/company/incidenthub/](https://www.linkedin.com/company/incidenthub/)  
+YouTube - [https://www.youtube.com/@IncidentHub-Cloud](https://www.youtube.com/@IncidentHub-Cloud)  
+Bluesky - [https://bsky.app/profile/incidenthub.bsky.social](https://bsky.app/profile/incidenthub.bsky.social)  
 Blog - [https://blog.incidenthub.cloud/](https://blog.incidenthub.cloud/)  
-Documentation - [https://docs.incidenthub.cloud/](https://docs.incidenthub.cloud/)  
 
 On ProductHunt - [https://www.producthunt.com/products/incidenthub](https://www.producthunt.com/products/incidenthub)  
 On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incidenthub)
+
+## Docs
+[https://docs.incidenthub.cloud/](https://docs.incidenthub.cloud/)  
 
 ## Popular Services
 [Airtable status](https://incidenthub.cloud/status/airtable)  
