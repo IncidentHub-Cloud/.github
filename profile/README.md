@@ -13,7 +13,7 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### Maintenance Feed
 #### Upcoming Maintenance Reminders
 #### Historical Data
-#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, and more
+#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, and more
 
 ## Social
 X - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
@@ -56,3 +56,9 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 [Vercel status](https://incidenthub.cloud/status/vercel)  
 [Zapier status](https://incidenthub.cloud/status/zapier)  
 [All services](https://incidenthub.cloud/services)
+
+## Understanding Status Page Aggregation and Monitoring
+[Top 6 Reasons Why You Need a Status Page Aggregator](https://blog.incidenthub.cloud/top-six-reasons-why-you-need-a-status-page-aggregator)  
+[A Guide to Monitoring Multiple Status Pages](https://blog.incidenthub.cloud/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach)  
+[Improving the Developer Experience by Monitoring Third-Party Outages](https://blog.incidenthub.cloud/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach)  
+
