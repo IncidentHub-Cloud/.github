@@ -13,7 +13,7 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### Maintenance Feed
 #### Upcoming Maintenance Reminders
 #### Historical Data
-#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, and more
+#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, and more
 
 ## Social
 X - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
