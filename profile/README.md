@@ -15,6 +15,11 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### Historical Data
 #### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, and more
 
+## Use Cases
+#### [IT Teams](https://incidenthub.cloud/use-cases/it-teams)
+#### [Ops/SRE Teams](https://incidenthub.cloud/use-cases/ops-sre-teams)
+#### [Development Teams](https://incidenthub.cloud/use-cases/development-teams)
+
 ## Social
 X - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
 LinkedIn - [https://www.linkedin.com/company/incidenthub/](https://www.linkedin.com/company/incidenthub/)  
