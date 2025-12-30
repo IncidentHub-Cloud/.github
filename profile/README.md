@@ -22,6 +22,11 @@ IncidentHub is a status page aggregator that monitors hundreds of status pages a
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Major Cloud Outages of 2025](https://blog.incidenthub.cloud/major-cloud-outages-2025)
+- [How to Receive Cloud Outage Alerts in Microsoft Teams](https://blog.incidenthub.cloud/how-to-receive-cloud-outage-alerts-in-microsoft-teams)
+- [Product Update - Turn Off Alerts, Use Microsoft Teams, and Custom Domains](https://blog.incidenthub.cloud/product-update-filter-alerts-ms-teams-custom-domains)
+- [The 2025 Guide to Open Source Status Page Software](https://blog.incidenthub.cloud/The-2025-Guide-to-Open-Source-Status-Page-Software)
+- [Improving the Developer Experience by Monitoring Third-Party Outages](https://blog.incidenthub.cloud/improving-developer-experience-by-monitoring-third-party-outages)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
