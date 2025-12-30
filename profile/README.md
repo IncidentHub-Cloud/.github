@@ -20,6 +20,10 @@ IncidentHub monitors hundreds of status pages and can alert when when there are 
 #### [Ops/SRE Teams](https://incidenthub.cloud/use-cases/ops-sre-teams)
 #### [Development Teams](https://incidenthub.cloud/use-cases/development-teams)
 
+## Latest newsletter posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Social
 X - [https://twitter.com/incident_hub](https://twitter.com/incident_hub)  
 LinkedIn - [https://www.linkedin.com/company/incidenthub/](https://www.linkedin.com/company/incidenthub/)  
