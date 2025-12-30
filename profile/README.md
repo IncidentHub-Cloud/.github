@@ -1,6 +1,6 @@
 ## Comprehensive Status Page Monitoring
 
-IncidentHub monitors hundreds of status pages and can alert when when there are outages and maintenance.
+IncidentHub is a status page aggregator that monitors hundreds of status pages and can alert you when when there are outages and maintenance.
 
 [https://incidenthub.cloud/](https://incidenthub.cloud/)
 
