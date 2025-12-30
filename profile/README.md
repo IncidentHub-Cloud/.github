@@ -20,7 +20,7 @@ IncidentHub is a status page aggregator that monitors hundreds of status pages a
 #### [Ops/SRE Teams](https://incidenthub.cloud/use-cases/ops-sre-teams)
 #### [Development Teams](https://incidenthub.cloud/use-cases/development-teams)
 
-## Latest newsletter posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
