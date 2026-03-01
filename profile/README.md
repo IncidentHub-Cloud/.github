@@ -22,11 +22,11 @@ IncidentHub is a status page aggregator that monitors hundreds of status pages a
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive AWS Outage Report 2025: Reliability Analytics and Cascade Impact](https://blog.incidenthub.cloud/definitive-aws-outage-report-2025-reliability)
 - [How to Monitor SaaS Status in 2026 : A Complete Guide](https://blog.incidenthub.cloud/monitoring-saas-status-2026-complete-guide)
 - [Major Cloud Outages of 2025](https://blog.incidenthub.cloud/major-cloud-outages-2025)
 - [How to Receive Cloud Outage Alerts in Microsoft Teams](https://blog.incidenthub.cloud/how-to-receive-cloud-outage-alerts-in-microsoft-teams)
 - [Product Update - Turn Off Alerts, Use Microsoft Teams, and Custom Domains](https://blog.incidenthub.cloud/product-update-filter-alerts-ms-teams-custom-domains)
-- [The 2025 Guide to Open Source Status Page Software](https://blog.incidenthub.cloud/The-2025-Guide-to-Open-Source-Status-Page-Software)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
