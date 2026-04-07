@@ -13,10 +13,12 @@ IncidentHub is a status page aggregator that monitors hundreds of status pages a
 #### Maintenance Feed
 #### Upcoming Maintenance Reminders
 #### Historical Data
-#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, and more
+#### Multiple Teams
+#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, BoldDesk, Freshdesk and more
 
 ## Use Cases
 #### [IT Teams](https://incidenthub.cloud/use-cases/it-teams)
+#### [MSPs](https://incidenthub.cloud/use-cases/msps)
 #### [Ops/SRE Teams](https://incidenthub.cloud/use-cases/ops-sre-teams)
 #### [Development Teams](https://incidenthub.cloud/use-cases/development-teams)
 
@@ -73,7 +75,7 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 
 ## Understanding Status Page Aggregation and Monitoring
 [Top 6 Reasons Why You Need a Status Page Aggregator](https://blog.incidenthub.cloud/top-six-reasons-why-you-need-a-status-page-aggregator)  
-[A Guide to Monitoring Multiple Status Pages](https://blog.incidenthub.cloud/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach)  
+[How to Monitor SaaS Status in 2026 : A Complete Guide](https://blog.incidenthub.cloud/monitoring-saas-status-2026-complete-guide)  
 [Improving the Developer Experience by Monitoring Third-Party Outages](https://blog.incidenthub.cloud/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach)  
 
 
