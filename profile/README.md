@@ -1,6 +1,6 @@
-## Comprehensive Status Page Monitoring
+## Comprehensive Status Page Monitoring and Aggregation
 
-IncidentHub is a status page aggregator that monitors hundreds of status pages and can alert you when when there are outages and maintenance.
+IncidentHub is a status page aggregator that monitors 950+ status pages and can alert you when when there are outages and maintenance.
 
 [https://incidenthub.cloud/](https://incidenthub.cloud/)
 
@@ -9,12 +9,13 @@ IncidentHub is a status page aggregator that monitors hundreds of status pages a
 #### Component Filtering
 #### Real-time Alerts
 #### Alert Fine Tuning
-#### Public Status Page
+#### White-labeled Public Status Page
 #### Maintenance Feed
 #### Upcoming Maintenance Reminders
 #### Historical Data
 #### Multiple Teams
-#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, BoldDesk, Freshdesk and more
+#### Private Status Page Ingestion
+#### Integration with Slack, Discord, PagerDuty, Email, Webhooks, Microsoft Teams, Zendesk, BoldDesk, Freshdesk, Atlassian Jira Service Management
 
 ## Use Cases
 #### [IT Teams](https://incidenthub.cloud/use-cases/it-teams)
@@ -72,6 +73,10 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 [Vercel status](https://incidenthub.cloud/status/vercel)  
 [Zapier status](https://incidenthub.cloud/status/zapier)  
 [All services](https://incidenthub.cloud/services)
+
+## Outage Analyses
+[GitHub Outages 2025 - 2026: Reliability Analysis and Outage History](https://blog.incidenthub.cloud/github-reliability-outage-history-2025-2026)
+[The Definitive AWS Outage Report 2025: Reliability Analytics and Cascade Impact](https://blog.incidenthub.cloud/definitive-aws-outage-report-2025-reliability)
 
 ## Understanding Status Page Aggregation and Monitoring
 [Top 6 Reasons Why You Need a Status Page Aggregator](https://blog.incidenthub.cloud/top-six-reasons-why-you-need-a-status-page-aggregator)  
