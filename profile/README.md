@@ -25,11 +25,11 @@ IncidentHub is a status page aggregator that monitors 950+ status pages and can 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Product Update - June 2026](https://blog.incidenthub.cloud/product-update-june-2026)
 - [Product Update - May 2026](https://blog.incidenthub.cloud/product-update-may-2026)
 - [GitHub Outages 2025 - 2026: Reliability Analysis and Outage History](https://blog.incidenthub.cloud/github-reliability-outage-history-2025-2026)
 - [Why IncidentHub&#39;s Alerting is Better than Other Status Page Aggregators&#39;](https://blog.incidenthub.cloud/incidenthub-alerting-better-status-page-aggregators)
 - [Product Update - March 2026](https://blog.incidenthub.cloud/product-update-march-2026)
-- [The Definitive AWS Outage Report 2025: Reliability Analytics and Cascade Impact](https://blog.incidenthub.cloud/definitive-aws-outage-report-2025-reliability)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
