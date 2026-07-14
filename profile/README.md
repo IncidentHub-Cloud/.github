@@ -1,6 +1,6 @@
-## Comprehensive Status Page Monitoring and Aggregation
+## Vendor Outage Monitor and Status Page Aggregator
 
-IncidentHub is a status page aggregator that monitors 950+ status pages and can alert you when when there are outages and maintenance.
+IncidentHub is a vendor outage monitor and status page aggregator that monitors 950+ status pages and can alert you when when there are outages and maintenance.
 
 [https://incidenthub.cloud/](https://incidenthub.cloud/)
 
@@ -78,6 +78,8 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 [GitHub Outages 2025 - 2026: Reliability Analysis and Outage History](https://blog.incidenthub.cloud/github-reliability-outage-history-2025-2026)
 
 [The Definitive AWS Outage Report 2025: Reliability Analytics and Cascade Impact](https://blog.incidenthub.cloud/definitive-aws-outage-report-2025-reliability)
+
+[Major Cloud Outages of 2025](https://blog.incidenthub.cloud/major-cloud-outages-2025)
 
 ## Understanding Status Page Aggregation and Monitoring
 [Top 6 Reasons Why You Need a Status Page Aggregator](https://blog.incidenthub.cloud/top-six-reasons-why-you-need-a-status-page-aggregator)  
