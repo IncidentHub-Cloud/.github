@@ -25,11 +25,11 @@ IncidentHub is a vendor outage monitor and status page aggregator that monitors 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The July 2026 AWS CloudFront Outage: VPC Origins, Cascade Impact, and What Broke](https://blog.incidenthub.cloud/aws-cloudfront-outage-jul-16-2026)
 - [Vendor Outage Monitoring for MSPs: Per-Client Status Pages and Custom Dashboards](https://blog.incidenthub.cloud/vendor-outage-monitoring-for-msps)
 - [Product Update - June 2026](https://blog.incidenthub.cloud/product-update-june-2026)
 - [Product Update - May 2026](https://blog.incidenthub.cloud/product-update-may-2026)
 - [GitHub Outages 2025 - 2026: Reliability Analysis and Outage History](https://blog.incidenthub.cloud/github-reliability-outage-history-2025-2026)
-- [Why IncidentHub&#39;s Alerting is Better than Other Status Page Aggregators&#39;](https://blog.incidenthub.cloud/incidenthub-alerting-better-status-page-aggregators)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
