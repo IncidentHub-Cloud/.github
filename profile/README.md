@@ -81,10 +81,10 @@ On SaaSHub - [https://www.saashub.com/incidenthub](https://www.saashub.com/incid
 
 [Major Cloud Outages of 2025](https://blog.incidenthub.cloud/major-cloud-outages-2025)
 
-## Understanding Status Page Aggregation and Monitoring
+## Understanding Status Page Aggregation and Vendor Outage Monitoring
 [Top 6 Reasons Why You Need a Status Page Aggregator](https://blog.incidenthub.cloud/top-six-reasons-why-you-need-a-status-page-aggregator)  
 [How to Monitor SaaS Status in 2026 : A Complete Guide](https://blog.incidenthub.cloud/monitoring-saas-status-2026-complete-guide)  
 [Improving the Developer Experience by Monitoring Third-Party Outages](https://blog.incidenthub.cloud/How-To-Monitor-Public-Status-Pages-of-Cloud-Providers-a-Step-by-Step-Approach)  
-
+[Vendor Outage Monitoring](https://vendoroutagemonitoring.com/)
 
 
