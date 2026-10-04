@@ -25,11 +25,11 @@ IncidentHub is a vendor outage monitor and status page aggregator that monitors 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The September 30, 2026 Railway Outage](https://blog.incidenthub.cloud/railway-sep-30-2026-outage)
 - [Six IsDown Alternatives in 2026](https://blog.incidenthub.cloud/six-isdown-alternatives-in-2026)
 - [The August 13, 2026 Namecheap Outage](https://blog.incidenthub.cloud/namecheap-outage-aug-13-2026)
 - [The August 6, 2026 GitHub Actions Outage: Queued Jobs, Throttled Webhooks, Impact Lasting 10 Hours](https://blog.incidenthub.cloud/github-actions-pages-outage-aug-6-2026)
 - [Product Update - July 2026](https://blog.incidenthub.cloud/product-update-july-2026)
-- [The July 24, 2026 AWS us-west-2 Outage: Network Routing and a Long Recovery Tail](https://blog.incidenthub.cloud/aws-us-west-2-outage-jul-24-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
