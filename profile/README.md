@@ -25,11 +25,11 @@ IncidentHub is a vendor outage monitor and status page aggregator that monitors 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The October 13, 2026 Microsoft 365 Global Secure Access Outage](https://blog.incidenthub.cloud/2026-10-14-microsoft-365-gsa-outage-oct-13-2026)
 - [The October 8, 2026 Google Cloud Storage Outage](https://blog.incidenthub.cloud/2026-10-12-google-cloud-storage-outage-oct-8-2026)
 - [The September 30, 2026 Railway Outage](https://blog.incidenthub.cloud/railway-sep-30-2026-outage)
 - [Six IsDown Alternatives in 2026](https://blog.incidenthub.cloud/six-isdown-alternatives-in-2026)
 - [The August 13, 2026 Namecheap Outage](https://blog.incidenthub.cloud/namecheap-outage-aug-13-2026)
-- [The August 6, 2026 GitHub Actions Outage: Queued Jobs, Throttled Webhooks, Impact Lasting 10 Hours](https://blog.incidenthub.cloud/github-actions-pages-outage-aug-6-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
