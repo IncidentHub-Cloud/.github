@@ -25,11 +25,11 @@ IncidentHub is a vendor outage monitor and status page aggregator that monitors 
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [IncidentHub HaloPSA Integration - Outage and Client Information in HaloPSA Tickets](https://blog.incidenthub.cloud/incidenthub-halopsa-integration)
 - [The November 12, 2026 Microsoft 365 Outage](https://blog.incidenthub.cloud/microsoft-365-outage-nov-12-2026)
 - [The October 20, 2026 Google Cloud europe-west2 Outage](https://blog.incidenthub.cloud/google-cloud-europe-west2-outage-oct-20-2026)
 - [Product Update - October 2026](https://blog.incidenthub.cloud/product-update-october-2026)
 - [The October 13, 2026 Microsoft 365 Global Secure Access Outage](https://blog.incidenthub.cloud/2026-10-14-microsoft-365-gsa-outage-oct-13-2026)
-- [The October 8, 2026 Google Cloud Storage Outage](https://blog.incidenthub.cloud/2026-10-12-google-cloud-storage-outage-oct-8-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
